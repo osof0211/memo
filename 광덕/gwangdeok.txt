@@ -7,5 +7,5 @@ git config --global user.email "your_email@youremail.com"
 
 공공기관 아이디: gkscdkgm211
 
-PPT 만들기: 기능 설명, 차별화 제시, 시연, 발전방향 발표하기 (이번주 토요일까지)
+PPT 만들기: 배경, 기능 설명, 차별화 제시, 시연, 발전방향 발표하기 (이번주 토요일까지)
 
